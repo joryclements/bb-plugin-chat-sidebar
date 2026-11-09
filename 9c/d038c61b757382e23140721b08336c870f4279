@@ -1,0 +1,49 @@
+CHANGELOG.md
+  s_598410790ae030::t_9000fb9423b578 10-17
+components/chat-list.tsx
+  s_598410790ae030::t_d7a6a66b0e257c 38,130,279,281-291,450,454
+components/folder-editor/entry-pane.tsx
+  s_598410790ae030::t_09703b94f08bb8 8-9,26,49,86-87,156-198
+components/folder-editor/list-pane.tsx
+  s_598410790ae030::t_0a58065b210799 21,60-61
+components/folder-editor/rule-editor.tsx
+  s_598410790ae030::t_cbbde9fff242b8 14,49-57,140-144,232-236
+components/folder-menu.tsx
+  s_598410790ae030::t_e97cd7371f961b 17,28,68,73-79,115-126
+components/folders-context.tsx
+  s_598410790ae030::t_0aba51962dbdf0 42-43,231
+components/group-header.tsx
+  s_598410790ae030::t_e172c0349b3892 2,5,17,24-25,63-78
+lib/folder-images.ts
+  s_598410790ae030::t_0ed0d9305eee3d 40
+lib/folders.ts
+  s_598410790ae030::t_0749a1764b7c1d 4-7,44-46,51,71-72,81,89,94-101,115-116,135,164-169,234
+lib/i18n/en.ts
+  s_598410790ae030::t_3dee5447de87dd 154,174,223,246-250
+lib/i18n/ru.ts
+  s_598410790ae030::t_9e77bf847cb2e5 156,176,229,253-257
+lib/model.ts
+  s_598410790ae030::t_bfdda0acf02df7 30,264-267,285-332,405-412,553-554,556,574-577
+lib/rpc.ts
+  s_598410790ae030::t_fa5b449bc7965b 18,61-62,70,80-84
+test/model.test.ts
+  s_598410790ae030::t_1db38f6fda4f19 10-11,159,176,387-454
+test/rpc.test.ts
+  s_598410790ae030::t_605d91069113c0 20-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cd038c61b757382e23140721b08336c870f4279",
+  "prompts": {},
+  "sessions": {
+    "s_598410790ae030": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b18528c-ddff-4768-b353-87d87894f9d9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jory Clements <jory.clements@betterup.co>"
+    }
+  }
+}
