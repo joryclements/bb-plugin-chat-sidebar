@@ -1,0 +1,37 @@
+CHANGELOG.md
+  s_598410790ae030::t_e1426480ede404 5-9
+README.md
+  s_598410790ae030::t_8dbf0fb2ad49c2 137
+components/chat-list.tsx
+  s_598410790ae030::t_113bfc7b3be2d7 37,274-278,438
+components/group-header.tsx
+  s_598410790ae030::t_ea57f24fa9f091 1-2,28-30
+lib/i18n/en.ts
+  s_598410790ae030::t_cf5bfbc2613626 18
+lib/i18n/ru.ts
+  s_598410790ae030::t_f8d99a894d5afb 10
+lib/model.ts
+  s_598410790ae030::t_73a2d2d9bd8709 398-399,404-405,493-520
+lib/settings.ts
+  s_598410790ae030::t_d59f36227ed638 33-39,137,171
+test/model.test.ts
+  s_598410790ae030::t_6e8c5674a93cd5 1,8,280-303
+test/settings.test.ts
+  s_598410790ae030::t_87c5fc1c88eb85 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a758262374b65480422e4929fa1fa6886623ddd",
+  "prompts": {},
+  "sessions": {
+    "s_598410790ae030": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b18528c-ddff-4768-b353-87d87894f9d9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jory Clements <jory.clements@betterup.co>"
+    }
+  }
+}
